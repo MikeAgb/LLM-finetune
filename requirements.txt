@@ -1,0 +1,10 @@
+trl
+transformers 
+accelerate 
+git+https://github.com/huggingface/peft.git
+huggingface
+datasets 
+bitsandbytes 
+einops 
+wandb 
+xformers 
