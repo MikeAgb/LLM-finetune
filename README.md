@@ -1,6 +1,6 @@
 # LLM-finetune
 
-This project allows you to fine-tune any LLM available on HuggingFace from the command line. Configure the training job from a yaml file allowing you to set the peft method, the training parameters, the quantization config, and more.
+The goal of this project is to provide an easy package to fine-tune any LLM from HuggingFace from the command line. Configure the training from a yaml file allowing you to set the peft method, the training parameters, the quantization config, and more.
 
 ## Supported Features
 
