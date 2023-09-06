@@ -102,3 +102,10 @@ train:
 
 If using CAUSAL_LM, data needs to be in a single column csv file with column name="full_prompt". 
 If using SEQ_2_SEQ_LM the data should be in a two-column csv file with column names "input_ids" and "labels"
+
+## Todos
+
+* Tensorboard integration
+* Add GPTQ support
+
+  
